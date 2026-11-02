@@ -1,0 +1,21 @@
+{
+  "name": "techself",
+  "version": "1.0.0",
+  "description": "TechSelf - React Electronics E-Commerce Template",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "preview": "node server.mjs"
+  },
+  "keywords": [
+    "react",
+    "ecommerce",
+    "electronics",
+    "tailwind",
+    "template"
+  ],
+  "author": "TailGrids",
+  "license": "MIT"
+}
